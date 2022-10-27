@@ -17,5 +17,11 @@ Initial Setup
 3. get configuration
 4. initialize firebase
 5. Enable Auth Method
+----------------
+step-2:
+1. Create Login Component
+2. Create Register Component
+3. Create Route for Login & Register
+
 
 */
