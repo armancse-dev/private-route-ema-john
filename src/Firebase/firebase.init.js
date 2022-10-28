@@ -23,5 +23,21 @@ step-2:
 2. Create Register Component
 3. Create Route for Login & Register
 
+-------------------
+Setp: 3
+1. set up sign in method
+2. setup sign out method
+3. user state
+4. special observer
+5. Return necessary methods and states from useFirebase
+
+-------------------
+Setp: 4
+1. Create a auth context
+2. create a context provider
+3. use Auth provider
+4. create useAuth Hook
+
+
 
 */
