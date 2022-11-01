@@ -18,13 +18,13 @@ Initial Setup
 4. initialize firebase
 5. Enable Auth Method
 ----------------
-step-2:
+step-2: setup component
 1. Create Login Component
 2. Create Register Component
 3. Create Route for Login & Register
 
 -------------------
-Setp: 3
+Setp: 3 set auth system
 1. set up sign in method
 2. setup sign out method
 3. user state
@@ -32,12 +32,17 @@ Setp: 3
 5. Return necessary methods and states from useFirebase
 
 -------------------
-Setp: 4
+Setp: 4 create auth context hook (useAuth)
 1. Create a auth context
 2. create a context provider
-3. use Auth provider
-4. create useAuth Hook
+3. set context provider context value
+4. use Auth provider
+5. create useAuth Hook
 
 
+------------------
+Step 5: create private route
+1. create private route
+2. set private route
 
 */
